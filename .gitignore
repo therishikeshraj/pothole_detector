@@ -1,0 +1,25 @@
+# Arduino build outputs & temporary files
+build/
+*.hex
+*.elf
+*.bin
+*.map
+
+# PlatformIO & IDE Settings
+.pio/
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Sensitive credential files & header configs
+config.h
+credentials.h
+secrets.h
+*.env
+*.key
+
+# Word documents / raw office backups
+*.docx
+*.doc

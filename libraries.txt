@@ -1,0 +1,11 @@
+# ============================================================================
+# ROAD SHIELD – Required Arduino IDE Libraries Manifest
+# ============================================================================
+# Install these libraries via the Arduino IDE Library Manager:
+# Sketch -> Include Library -> Manage Libraries (Ctrl + Shift + I)
+# ============================================================================
+
+1. Wire (Built-in Arduino/ESP32 Core I2C Library)
+2. WiFi (Built-in ESP32 Core Networking Library)
+3. Firebase ESP Client (Author: Mobizt, Recommended Version >= 4.3.0)
+   - Library Name: "Firebase Realtime Database Arduino Library for ESP8266 and ESP32"
